@@ -20,8 +20,6 @@ git clone https://github.com/huajielong/create-readme.git `
   "$env:USERPROFILE\.claude\skills\create-readme"
 ```
 
-This repository is the merged version: create, audit, `README.txt` support, and Chinese heading detection. The upstream `github/awesome-copilot@create-readme` only creates. **Do not overwrite this directory with `npx skills add`; it replaces the merged version with the upstream one.**
-
 ## Usage
 
 In Claude Code, ask:
